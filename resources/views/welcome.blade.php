@@ -5,6 +5,29 @@
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     @vite('resources/css/app.css')
 
+    <!-- HTML Meta Tags -->
+    <title>Year in review: 2023</title>
+    <meta name="description" content="Prince John's short review of his long 2023 journey.">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://princejohn.dev/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Year in review: 2023">
+    <meta property="og:description" content="Prince John's short review of his long 2023 journey.">
+    <meta property="og:image"
+        content="https://opengraph.b-cdn.net/production/documents/ef12447e-8932-4413-b86a-13e730cf0c6e.png?token=Vu1IS9dCuHjIC9NvMwX5gMxX_fuQcTEtqgfCm_gsui8&height=627&width=1200&expires=33240005824">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="princejohn.dev">
+    <meta property="twitter:url" content="https://princejohn.dev/">
+    <meta name="twitter:title" content="Year in review: 2023">
+    <meta name="twitter:description" content="Prince John's short review of his long 2023 journey.">
+    <meta name="twitter:image"
+        content="https://opengraph.b-cdn.net/production/documents/ef12447e-8932-4413-b86a-13e730cf0c6e.png?token=Vu1IS9dCuHjIC9NvMwX5gMxX_fuQcTEtqgfCm_gsui8&height=627&width=1200&expires=33240005824">
+
+    <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+
 </head>
 
 <body>
@@ -33,7 +56,9 @@
             </figure>
 
             <p class="mt-10 leading-8">This is my first 'Year in review', and the motivation to write this came from
-                <a href="https://aaronfrancis.com/2023/year-in-review-2023" class="underline" traget="_blank">Aaron Francis's year in review</a>. So, thank you, Aaron!</p>
+                <a href="https://aaronfrancis.com/2023/year-in-review-2023" class="underline" traget="_blank">Aaron
+                    Francis's year in review</a>. So, thank you, Aaron!
+            </p>
             <div class="mt-4 max-w-2xl">
                 <p class="leading-8">At the beginning of 2023 I've wanted to start journaling because I felt like the
                     thoughts in my head are getting too cluttered and it was hard to think straight. This was probably
@@ -124,7 +149,8 @@
 
             <div class="mt-10 max-w-2xl">
                 <h2 class="text-2xl font-bold tracking-tight text-gray-900">New house</h2>
-                <p class="mt-4 leading-8">The year was great for me and my family, moving from a condo to a bigger house
+                <p class="mt-4 leading-8">The year was great for me and my family, moving from a condo to a bigger
+                    house
                     was pivotal for us in many ways. Finally, our daughter wasn't stuck indoor to be raised by Youtube
                     and Netflix. For the first time she had neighbors to play with, and a cat to take care of. These
                     were things we knew are beneficial for her development. Also, friends and family visited more often.
@@ -159,7 +185,8 @@
                     figured all these issues out if we stuck with it, but given our family's current situation, we
                     couldn't. We were more focused with other areas of our life. So we decided to part ways with my
                     college friend, and gave him all of our company shares as we exited that business.</p>
-                <p class="mt-4 leading-8"><em>Then there's <strong>work</strong> at my day job.</em><br />My day job was
+                <p class="mt-4 leading-8"><em>Then there's <strong>work</strong> at my day job.</em><br />My day job
+                    was
                     something I really enjoyed. I loved the people I work with and I love the things we're building. Q1
                     this year, the company underwent a merger and upper management when through an overhaul.
                     Unfortunately, company changes involved a bunch of layoffs. I was asked to select a few members from
@@ -192,7 +219,8 @@
                                     clip-rule="evenodd" />
                             </svg>
                             <span><strong><a href="https://github.com/solgenpower/laravel-openweather"
-                                        target="_blank">solgenpower/laravel-openweather</a></strong> We used this on the
+                                        target="_blank">solgenpower/laravel-openweather</a></strong> We used this on
+                                the
                                 app we built to collect weather information from <a href="https://openweathermap.org/"
                                     class="underline" target="_blank">OpenWeather</a>. </span>
                         </li>
@@ -204,7 +232,8 @@
                                     clip-rule="evenodd" />
                             </svg>
                             <span><strong><a href="https://github.com/princejohnsantillan/id-base-converter"
-                                        target="_blank">princejohnsantillan/id-base-converter</a></strong> A tiny tool to
+                                        target="_blank">princejohnsantillan/id-base-converter</a></strong> A tiny tool
+                                to
                                 make it easy to encode integers into different bases or into a symbol set of your own.
                                 Please do try it out!</span>
                         </li>
@@ -238,7 +267,9 @@
                     everything in order. </p>
                 <p class="mt-4 leading-8">In terms of physical health, I started to eat healthily and do consistent
                     exercise. I haven't figured all of this out yet, but the journey has started. I'm looking into keto
-                    and fasting, and eating a lot of greens. My wife and I are following <a href="https://www.youtube.com/carolinegirvan" class="underline" target ="_blank">Caroline Girvan</a> for our
+                    and fasting, and eating a lot of greens. My wife and I are following <a
+                        href="https://www.youtube.com/carolinegirvan" class="underline" target ="_blank">Caroline
+                        Girvan</a> for our
                     workouts. And, sleep! I averaged 4-5 hours of sleep over the last couple of years. That needs to
                     change! I am reorganizing my life to have 6-8 hours of sleep.</p>
                 <p class="mt-4 leading-8">For mental and emotional health, I started journaling. I'm also committed to
