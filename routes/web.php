@@ -13,8 +13,25 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/clear-visitors', function () {
+    cache()->forget('visitors');
+});
+
 Route::get('/', function () {
-    cache()->increment('visitors');
+
+
+
+    /** @var array @visitors */
+    $visitors = cache()->get('visitors', null) ?? [];
+
+    if(array_key_exists(request()->ip(), $visitors)){
+        $visitors[request()->ip()] = $visitors[request()->ip()] + 1;
+    }else{
+        $visitors[request()->ip()] = 1;
+    }
+
+
+    cache()->forever('visitors',$visitors);
 
     return view('welcome');
 });
