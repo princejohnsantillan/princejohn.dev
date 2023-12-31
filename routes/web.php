@@ -14,5 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    cache()->increment('visitors');
+
     return view('welcome');
 });
+
+Route::get('/visitors',fn () => cache('visitors'));
