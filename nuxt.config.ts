@@ -9,11 +9,6 @@ export default defineNuxtConfig({
     "@nuxtjs/mdc",
     "@nuxthq/studio"
   ],
-  mdc: {
-    highlight: {
-      langs: ['php','js', 'bash']
-    }
-  },
   colorMode: {
     classSuffix: ''
   },
@@ -24,7 +19,18 @@ export default defineNuxtConfig({
       theme: {
         dark: 'github-dark',
         default: 'github-light'
-      }
+      },
+      langs: [
+        'html',
+        'css',
+        'php',
+        'blade',
+        'vue',
+        'js',
+        'ts',
+        'json',
+        'shell',
+      ]
     }
   }
 })
