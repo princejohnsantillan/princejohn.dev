@@ -2,7 +2,7 @@
 layout: custom
 ---
 
-# About
+# Projects
 
 This page is using the `layouts/custom.vue` layout.
 
