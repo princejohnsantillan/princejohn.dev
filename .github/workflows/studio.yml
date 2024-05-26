@@ -70,7 +70,7 @@ jobs:
         run: npx nuxi build --preset github_pages
         env:
           NUXT_PUBLIC_STUDIO_API_URL: https://api.nuxt.studio
-          NUXT_PUBLIC_STUDIO_TOKENS: cdedd55f5f26da40f35f09d6b501b0fe8f91c615459fd4dc852e78aef0c8b9a3
+          NUXT_PUBLIC_STUDIO_TOKENS: 2c4e0a3bef8d53293b8f9001824747d3cd9823cab1deeeb38d3f11ba7a84f57b
 
 
       # Deployment job
