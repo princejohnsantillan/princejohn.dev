@@ -6,8 +6,8 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxtjs/color-mode",
     "nuxt-icon",
-    "@nuxtjs/mdc",
-    "@nuxthq/studio"
+    "@nuxthq/studio",
+    "nuxt-umami"
   ],
   colorMode: {
     classSuffix: ''
