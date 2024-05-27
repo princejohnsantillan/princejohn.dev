@@ -1,9 +1,9 @@
 ---
-title: Articles
-createdAt: 20231231
+layout: article
+title: "Year in review: 2023"
+description: "2023 was a meaningful year for me and my family."
+publish_at: "2023-12-31"
 ---
-
-# Year in review: 2023
 
 This is my first 'Year in review', and the motivation to write this came from [Aaron Francis's year in review](https://aaronfrancis.com/2023/year-in-review-2023). So, thank you, Aaron!
 

@@ -1,21 +1,22 @@
 <script lang="ts" setup>
-const { navigation } = useContent()
-const {socials } = useAppConfig()
+  const {socials } = useAppConfig()
 </script>
 
 <template>
   <div class="flex justify-between max-w-4xl px-4 py-4 mx-auto sm:px-8">
     <!-- Navigation -->
     <div class="text-gray-700 dark:text-gray-200">
-      <NuxtLink
-        v-for="link of navigation"
-        :key="link._path"
-        :to="link._path"
-        active-class="font-bold text-primary-500 dark:text-primary-400"
-        class="mr-6"
-      >
-        {{ link.title }}
-      </NuxtLink>
+      <ContentNavigation v-slot="{ navigation }">
+        <NuxtLink
+          v-for="link of navigation"
+          :key="link._path"
+          :to="link._path"
+          active-class="font-bold text-primary-500 dark:text-primary-400"
+          class="mr-6"
+        >
+          {{ link.title }}
+        </NuxtLink>
+      </ContentNavigation>
     </div>
     <!-- Social icons & Color Mode -->
     <div class="space-x-3 transition text-gray-500">

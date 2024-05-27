@@ -6,7 +6,8 @@ export default defineNuxtConfig({
     "@nuxtjs/color-mode",
     "nuxt-icon",
     "@nuxthq/studio",
-    "@nuxt/eslint"
+    "@nuxt/eslint",
+    "@vueuse/nuxt"
   ],
 
   // https://color-mode.nuxtjs.org/
