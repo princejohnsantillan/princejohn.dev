@@ -7,10 +7,7 @@ export default defineNuxtConfig({
     "nuxt-icon",
     "@nuxthq/studio",
     "@nuxt/eslint"
-  ],  
-  studio: {
-    enabled: true
-  },
+  ],
 
   // https://color-mode.nuxtjs.org/
   colorMode: {
