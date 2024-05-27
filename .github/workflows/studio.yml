@@ -1,3 +1,4 @@
+
 name: studio-nuxt-build
 run-name: studio nuxt build
 
@@ -5,7 +6,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches:
-      - "main"
+      - 'main'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -70,7 +71,7 @@ jobs:
         env:
           NUXT_PUBLIC_STUDIO_API_URL: https://api.nuxt.studio
           NUXT_PUBLIC_STUDIO_TOKENS: 2c4e0a3bef8d53293b8f9001824747d3cd9823cab1deeeb38d3f11ba7a84f57b
-          UMAMI_WEBSITE_ID: fc1ce274-d900-44d1-8c86-c12e42b15b10
+
 
       # Deployment job
       - name: Deploy 🚀
