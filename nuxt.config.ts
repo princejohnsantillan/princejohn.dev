@@ -8,6 +8,9 @@ export default defineNuxtConfig({
     "@nuxthq/studio",
     "@nuxt/eslint"
   ],  
+  studio: {
+    enabled: true
+  },
 
   // https://color-mode.nuxtjs.org/
   colorMode: {
