@@ -2,4 +2,8 @@
 title: Prince John
 ---
 
-# Prince John's Website
+I am a PHP/Laravel Developer.
+
+```php
+echo "Hello World!";
+```

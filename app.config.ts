@@ -1,5 +1,5 @@
 export default defineAppConfig({
-    cover: false,
+    cover: '/cover.jpeg',
     socials: {
       twitter: 'pjsantillan',
       github: 'princejohnsantillan',

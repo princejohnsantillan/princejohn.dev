@@ -1,3 +1,0 @@
-# Projects
-
-[Back home](/)

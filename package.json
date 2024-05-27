@@ -5,20 +5,18 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
     "@nuxt/content": "^2.12.1",
-    "@nuxt/image": "^1.7.0",
+    "@nuxt/eslint": "^0.3.13",
     "@nuxthq/studio": "^1.1.0",
     "@nuxtjs/color-mode": "^3.4.1",
-    "@nuxtjs/mdc": "^0.7.1",
     "@nuxtjs/tailwindcss": "^6.12.0",
     "@tailwindcss/typography": "^0.5.13",
     "nuxt": "^3.11.2",
     "nuxt-icon": "^0.6.10"
-  },
-  "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "^4.18.0"
   }
 }
