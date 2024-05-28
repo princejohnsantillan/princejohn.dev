@@ -8,6 +8,8 @@
 </template>
 <script setup lang="ts">
 
+import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
+
 const query: QueryBuilderParams = { path: '/articles', where: [{ layout: 'article' }], sort: [{publish_at: -1}] }
 
 const formatDate = (date: string) => useDateFormat(date, 'MMMM DD, YYYY').value
