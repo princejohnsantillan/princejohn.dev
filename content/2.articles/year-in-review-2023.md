@@ -1,7 +1,5 @@
 ---
 layout: article
-title: "Year in review: 2023"
-description: "2023 was a meaningful year for me and my family."
 publish_at: "2023-12-31"
 ---
 

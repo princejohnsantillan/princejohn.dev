@@ -3,7 +3,7 @@
       <main class="max-w-none prose dark:prose-invert prose-pre:bg-gray-100 dark:prose-pre:bg-gray-900 hover:prose-a:text-primary-400 prose-a:font-normal prose-a:no-underline prose-a:border-dashed prose-a:border-b hover:prose-a:border-solid hover:prose-a:border-primary-400">        
         <div class="my-10">
             <h1 class="mb-0 text-primary-500">{{ page.title }}</h1>
-            <span class="text-sm">Published on {{ publish_date }}</span>        
+            <span v-if="publish_date" class="text-sm">Published on {{ publish_date }}</span>        
         </div>
 
         <slot />
@@ -11,10 +11,8 @@
     </div>
 </template>
 <script setup>
-    import { useDateFormat } from '@vueuse/core'
-
     const { page } = useContent()
     
-    const publish_date = useDateFormat(page.value.publish_at, 'MMMM DD, YYYY')
+    const publish_date = computed(() => page.value.publish_at ? useDateFormat(page.value.publish_at, 'MMMM DD, YYYY').value : null)
 </script>
   
