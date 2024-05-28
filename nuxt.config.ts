@@ -5,14 +5,9 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss",
     "@nuxtjs/color-mode",
     "nuxt-icon",
-    "@nuxthq/studio",
     "@nuxt/eslint",
     "@vueuse/nuxt"
   ],
-
-  studio: {
-    enabled: true
-  },
 
   // https://color-mode.nuxtjs.org/
   colorMode: {
