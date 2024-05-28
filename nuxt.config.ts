@@ -10,6 +10,10 @@ export default defineNuxtConfig({
     "@vueuse/nuxt"
   ],
 
+  studio: {
+    enabled: true
+  },
+
   // https://color-mode.nuxtjs.org/
   colorMode: {
     classSuffix: ''
