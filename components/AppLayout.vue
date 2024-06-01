@@ -1,4 +1,6 @@
 <script setup lang="ts">
+  import colors from 'tailwindcss/colors'
+
   const { cover } = useAppConfig()
 </script>
 
@@ -7,7 +9,7 @@
     <Html lang="en" />
     <Meta property="og:image" :content="cover" />
     <Meta name="twitter:card" content="summary_large_image" />
-    <NuxtLoadingIndicator />
+    <NuxtLoadingIndicator :color="colors.orange[500]" />
     <AppNavbar />
     <slot />
   </div>
