@@ -1,11 +1,7 @@
 ---
 layout: article
-publish_at: "2024-05-28"
-ogImage:
-  component: NuxtSeo
-  props:
-    theme: "#f97316"
-    colorMode: "dark"
+publishAt: "2024-05-28"
+ogImage: true
 ---
 
 I just migrated my personal site from [Statamic](https://statamic.com/) into [Nuxt](https://nuxt.com/). I am using the `nuxt-content` module configured to be [`document driven`](https://content.nuxt.com/document-driven/introduction/).

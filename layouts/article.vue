@@ -13,6 +13,6 @@
 <script setup>
     const { page } = useContent()
     
-    const publish_date = computed(() => page.value.publish_at ? useDateFormat(page.value.publish_at, 'MMMM DD, YYYY').value : null)
+    const publish_date = computed(() => page.value.publishAt ? useDateFormat(page.value.publishAt, 'MMMM DD, YYYY').value : null)
 </script>
   

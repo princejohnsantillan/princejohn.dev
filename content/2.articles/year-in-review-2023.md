@@ -1,11 +1,7 @@
 ---
 layout: article
-publish_at: "2023-12-31"
-ogImage:
-  component: NuxtSeo
-  props:
-    theme: "#f97316"
-    colorMode: "dark"
+publishAt: "2023-12-31"
+ogImage: true
 ---
 
 This is my first 'Year in review', and the motivation to write this came from [Aaron Francis's year in review](https://aaronfrancis.com/2023/year-in-review-2023). So, thank you, Aaron!

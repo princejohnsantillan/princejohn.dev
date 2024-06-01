@@ -1,3 +1,5 @@
+import colors from 'tailwindcss/colors'
+
 // https://nuxt.com/docs/guide/directory-structure/nuxt.config#nuxt-config-file
 export default defineNuxtConfig({
   modules: [
@@ -12,6 +14,15 @@ export default defineNuxtConfig({
   ],
   
   devtools: { enabled: true },
+
+  ogImage: {    
+    defaults: {
+      props: {
+        theme: colors.orange[500],
+        colorMode: "dark"
+      }
+    }
+  },
 
   // https://color-mode.nuxtjs.org/
   colorMode: {
