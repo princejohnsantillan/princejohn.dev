@@ -6,8 +6,12 @@ export default defineNuxtConfig({
     "@nuxtjs/color-mode",
     "nuxt-icon",
     "@nuxt/eslint",
-    "@vueuse/nuxt"
+    "@vueuse/nuxt",
+    "nuxt-og-image",
+    "@nuxt/devtools"
   ],
+  
+  devtools: { enabled: true },
 
   // https://color-mode.nuxtjs.org/
   colorMode: {
