@@ -9,7 +9,7 @@
     <Html lang="en" />
     <Meta property="og:image" :content="cover" />
     <Meta name="twitter:card" content="summary_large_image" />
-    <NuxtLoadingIndicator :color="colors.orange[500]" :height="5" :throttle="5" :duration="5000" />
+    <NuxtLoadingIndicator :color="colors.orange[500]" />
     <AppNavbar />
     <slot />
   </div>
