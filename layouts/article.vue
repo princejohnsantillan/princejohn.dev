@@ -15,4 +15,10 @@
     
     const publish_date = computed(() => page.value.publishAt ? useDateFormat(page.value.publishAt, 'MMMM DD, YYYY').value : null)
 </script>
+
+<style>
+    .hl {        
+        @apply font-mono text-sm text-orange-500 bg-gray-50 rounded-sm py-1 px-2;
+    }
+</style>
   

@@ -53,6 +53,7 @@ export default defineNuxtConfig({
         'ts',
         'json',
         'shell',
+        'yml',
       ]
     }
   }  
