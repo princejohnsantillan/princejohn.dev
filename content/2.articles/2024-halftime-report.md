@@ -1,6 +1,6 @@
 ---
 layout: article
-description: 2024 halftime report.
+description: To be honest I don't know how to best describe what this year has been so far. What I am sure of is there are a handful of things I am grateful for..
 publishAt: "2024-06-30"
 ogImage: true
 ---
