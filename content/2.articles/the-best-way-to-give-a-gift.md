@@ -34,12 +34,13 @@ connecting the dots with wishlists. I knew wishlist isn't the root cause of enti
 thought that it could affect it. I thought about it more, and so I compared the two types of gifts, one that's based on 
 a wishlist and the other that isn't. 
 
-| Wishlist                                                     | No wishlist                                                        |
-|--------------------------------------------------------------|--------------------------------------------------------------------|
-| Initiated by the receiver                                    | Initiated by the giver                                             |
-| The effort to think about the gift is on the receiver        | The effort to think about the gift is on the giver                 |
-| Little to no surprise                                        | Surprise                                                           |
-| Potentially unhappy when receiving something not on the list | Potentially unhappy when the items on the list are hard to acquire |
+| Wishlist                                                         | No wishlist                                              |
+|------------------------------------------------------------------|----------------------------------------------------------|
+| Initiated by the receiver                                        | Initiated by the giver                                   |
+| The effort to think about the gift is on the receiver            | The effort to think about the gift is on the giver       |
+| Little to no surprise                                            | Surprise                                                 |
+| Disappointed on the receiver when their wish is not granted      | Receiver has no expectation that leads to disappointment |
+| Pressure on the giver when items on the list are hard to acquire | Giver can choose a give within their capacity            |
 
 This does not stop here though, the more wishlist-based gift-giving becomes a tradition the more side effects occur.
 People may disagree with me on this but from my experience and observation this is what happened/happens. 
