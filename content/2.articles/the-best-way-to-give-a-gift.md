@@ -43,8 +43,8 @@ a wishlist and the other that isn't.
 | Pressure on the giver when items on the list are hard to acquire | Giver can choose a gift within their capacity            |
 
 This does not stop here though, the more wishlist-based gift-giving becomes a tradition the more side effects occur.
-People may disagree with me on this but from my experience and observation this is what happened/happens. 
-Additionally, it alters the concept of gift giving for little children who started gift giving this way.
+People may disagree with me on this but from my experience and observation this is what happened/happens:
+(Additionally, it alters the concept of gift giving for little children who started gift giving this way.)
 
 | Wishlist                                              | No wishlist                                      |
 |-------------------------------------------------------|--------------------------------------------------|
