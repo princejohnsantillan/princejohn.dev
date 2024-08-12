@@ -15,8 +15,8 @@ it's the surprise that she loves.
 I meditated on this and tried to remember my own childhood. I remembered that I too enjoyed the surprise of 
 receiving random gifts. Up to this day it makes me happy remembering the day I got an unexpected train set gift from 
 my aunt for Christmas. And back in college my church friends surprised me by sneaking into my bedroom at 12 midnight to 
-sing me happy birthday, almost gave me a heart attack, but I loved it! 😂 Now that I'm older it's mosty, "hey what do 
-you want for your birthday?" or "I got you something form your wishlist". 
+sing me happy birthday, almost gave me a heart attack, but I loved it! 😂 Now that I'm older it's mostly, "hey what do 
+you want for your birthday?" or "I got you something from your wishlist". 
 
 Let's talk about wishlists. This was not really a thing when I was young, I think we started doing something like 
 this with my family and friends when I was already in college, and it was mostly during Christmas. It's fun to do 
@@ -31,17 +31,17 @@ generation and what it's like as a whole. As I was meditating on these things a 
 **[Entitlement]{.hl}**. For some reason it felt like entitlement recently became a subtle common thing with 
 everybody in this generation. So I wondered, why is that? I continued with this train of thought and found myself 
 connecting the dots with wishlists. I knew wishlist isn't the root cause of entitlement, but I couldn't shake off the 
-thought that it could affect it. I thought about it more. So I compared the two types of gifts, one that's based on 
+thought that it could affect it. I thought about it more, and so I compared the two types of gifts, one that's based on 
 a wishlist and the other that isn't. 
 
 | Wishlist                                                     | No wishlist                                                        |
 |--------------------------------------------------------------|--------------------------------------------------------------------|
 | Initiated by the receiver                                    | Initiated by the giver                                             |
-| The effort to think about the gift is the receiver           | The effort to think about the gift is the giver                    |
+| The effort to think about the gift is on the receiver        | The effort to think about the gift is on the giver                 |
 | Little to no surprise                                        | Surprise                                                           |
 | Potentially unhappy when receiving something not on the list | Potentially unhappy when the items on the list are hard to acquire |
 
-This does not stop here though, the more wishlist based gift giving becomes a tradition the more side effects occur.
+This does not stop here though, the more wishlist-based gift-giving becomes a tradition the more side effects occur.
 People may disagree with me on this but from my experience and observation this is what happened/happens. 
 Additionally, it alters the concept of gift giving for little children who started gift giving this way.
 
@@ -53,7 +53,7 @@ Additionally, it alters the concept of gift giving for little children who start
 | It's about gift-taking                                | It's about gift-giving                           |
 
 So I discussed these meditations with my wife, Kyle, and she agreed with me. A couple of years ago we decided to 
-never do wishlists again. We concluded that a gift is not a receivers rights but a benefit brought about from the 
+never do wishlists again. We concluded that a gift is not a receiver's right but a benefit brought about from the 
 relationship. A gift represents the heart and mind of the giver towards the receiver. Wishlist destroys that 
 expression. We realized that in a very subtle way, wishlists destroys the art of giving and the heart of receiving.
 
