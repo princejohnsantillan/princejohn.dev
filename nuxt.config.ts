@@ -15,7 +15,11 @@ export default defineNuxtConfig({
   
   devtools: { enabled: true },
 
-  ogImage: {    
+  site: {
+    url: "https://princejohn.dev"
+  },
+
+  ogImage: {
     defaults: {
       props: {
         theme: colors.orange[500],
