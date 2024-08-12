@@ -39,7 +39,7 @@ a wishlist and the other that isn't.
 | Initiated by the receiver                                        | Initiated by the giver                                   |
 | The effort to think about the gift is on the receiver            | The effort to think about the gift is on the giver       |
 | Little to no surprise                                            | Surprise                                                 |
-| Disappointed on the receiver when their wish is not granted      | Receiver has no expectation that leads to disappointment |
+| Disappointment on the receiver when their wish is not granted    | Receiver has no expectation that leads to disappointment |
 | Pressure on the giver when items on the list are hard to acquire | Giver can choose a give within their capacity            |
 
 This does not stop here though, the more wishlist-based gift-giving becomes a tradition the more side effects occur.
