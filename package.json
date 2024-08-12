@@ -10,16 +10,16 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@nuxt/content": "^2.12.1",
-    "@nuxt/devtools": "^1.3.2",
-    "@nuxt/eslint": "^0.3.13",
-    "@nuxtjs/color-mode": "^3.4.1",
-    "@nuxtjs/tailwindcss": "^6.12.0",
-    "@tailwindcss/typography": "^0.5.13",
-    "@vueuse/nuxt": "^10.10.0",
-    "nuxt": "^3.11.2",
-    "nuxt-icon": "^0.6.10",
-    "nuxt-og-image": "^3.0.0-rc.53"
+    "@nuxt/content": "2.12.1",
+    "@nuxt/devtools": "1.3.2",
+    "@nuxt/eslint": "0.3.13",
+    "@nuxtjs/color-mode": "3.4.1",
+    "@nuxtjs/tailwindcss": "6.12.0",
+    "@tailwindcss/typography": "0.5.13",
+    "@vueuse/nuxt": "10.10.0",
+    "nuxt": "3.11.2",
+    "nuxt-icon": "0.6.10",
+    "nuxt-og-image": "3.0.0-rc.53"
   },
   "dependencies": {
     "@vercel/analytics": "^1.3.1",
