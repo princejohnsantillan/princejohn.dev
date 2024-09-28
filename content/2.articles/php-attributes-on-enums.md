@@ -36,12 +36,12 @@ enum Letter{
     case E;
 
     /** @return array<Letter> */
-    public static function vowels($number): array{
+    public static function vowels(): array{
         return [Letter::A, Letter::E];
     }
 
     /** @return array<Letter> */
-    public static function consonants($number): array{
+    public static function consonants(): array{
         return [Letter::B, Letter::C, Letter::D];
     }
 }
